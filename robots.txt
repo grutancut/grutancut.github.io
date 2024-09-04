@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://grutancut.github.io/sitemap.html.gz
+Sitemap: https://grutancut.github.io/app/sitemap.html.gz
+Sitemap: https://grutancut.github.io/assets/sitemap.html.gz
+Sitemap: https://grutancut.github.io/css/sitemap.html.gz
+Sitemap: https://grutancut.github.io/includes/sitemap.html.gz
+Sitemap: https://grutancut.github.io/item/sitemap.html.gz
+Sitemap: https://grutancut.github.io/src/sitemap.html.gz
